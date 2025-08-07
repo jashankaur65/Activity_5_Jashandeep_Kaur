@@ -1,0 +1,8 @@
+Update this license file with licensing details.  
+License files are important because they tell users how they can use, share, or modify the software.  
+
+After installing this application:
+- Ensure all dependencies are correctly installed.
+- Run `python sports_application.py` to launch the program.
+- Review the `config.txt` file if customization is needed.
+jashandeep kaur

@@ -1,0 +1,6 @@
+Update this before file with details user should know before installing.
+
+- Make sure all necessary dependencies are installed (e.g., Node.js, Python).
+- Close all other applications to prevent installation conflicts.
+- Disable any firewalls or antivirus software that might interfere.
+jashandeep kaur
